@@ -1,0 +1,30 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      height: {
+        100: '34.063rem',
+        120: '43.75rem',
+        150: '53.438rem',
+      },
+      screens: {
+        mt: '870px',
+        mtd: '490px',
+      },
+      backgroundImage: {
+        bmobile: "url('/assets/bmobile.png')",
+        bannerpc: "url('/assets/bannerpc.png')",
+      },
+      colors: {
+        marrom: '#1D0605E5',
+        marromClaro: '#1D060526',
+        rosaClaro: '#3B200B0D',
+      },
+      fontFamily: {
+        lato: ['Lato', 'sans-serif'],
+      },
+    },
+  },
+  plugins: [],
+};
