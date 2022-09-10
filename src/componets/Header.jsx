@@ -3,7 +3,7 @@ import coroa from '../img/coroa.svg';
 import ifood from '../img/ifood.svg';
 import insta from '../img/insta.svg';
 import zap from '../img/zap.svg';
-import ModalMenu from './ModalMenu';
+import ModalMenu from './ModalMenuBtn';
 
 function Header() {
   return (
