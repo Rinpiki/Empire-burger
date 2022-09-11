@@ -7,7 +7,7 @@ import ModalMenu from './ModalMenuBtn';
 
 function Header() {
   return (
-    <header className="flex justify-between w-full max-w-7xl justify-items-center items-center py-5 px-2 mt:py-2">
+    <header className="flex justify-between w-full max-w-7xl justify-items-center items-center py-4 px-2 mt:py-2">
       <div className="flex justify-items-center items-center">
         <img src={coroa} className="w-8 h-8" />
         <h1 className="text-2xl text-marrom">

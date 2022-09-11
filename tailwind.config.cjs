@@ -32,6 +32,7 @@ module.exports = {
       },
       fontFamily: {
         lato: ['Lato', 'sans-serif'],
+        LilitaOne: ['Lilita One', 'cursive'],
       },
     },
   },

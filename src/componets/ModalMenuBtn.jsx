@@ -12,7 +12,7 @@ function ModalMenu() {
     <>
       <img
         src={menu}
-        className="bg-marromClaro p-2 z-40 rounded-sm sm:hidden"
+        className=" bg-marromClaro p-2 z-40 rounded-sm sm:hidden"
         onClick={heandleClick}
       />
       {modal ? <Modal /> : null}
