@@ -18,7 +18,7 @@ function FixSection() {
               Apetite de um REI!
             </span>
           </p>
-          <button className="text-white mt-3 rounded-md text-base py-[10px] px-5 bg-[#F43127] sm:text-xl lg:text-[22px]">
+          <button className="text-white mt-3 rounded-md text-base py-[10px] px-5 bg-[#F43127] sm:text-xl lg:text-[22px] lg:px-6 lg:pb-3">
             Comprar Agora
           </button>
         </div>
