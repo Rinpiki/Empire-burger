@@ -7,7 +7,7 @@ import ModalMenu from './ModalMenuBtn';
 
 function Header() {
   return (
-    <header className="flex justify-between w-full max-w-7xl justify-items-center items-center py-4 px-2 mt:py-2">
+    <header className="flex justify-between w-full max-w-7xl justify-items-center items-center py-4 px-2 mt:py-2 mt:border-b-2 mt:border-[#3C210C26]">
       <div className="flex justify-items-center items-center">
         <img src={coroa} className="w-8 h-8" />
         <h1 className="text-2xl text-marrom">
@@ -38,10 +38,10 @@ function Header() {
       <div className="hidden mt:flex justify-items-center items-center space-x-4">
         <img src={ifood} />
         <img src={insta} />
-        <div className="h-14 rounded-lg w-1 bg-red-700"></div>
+        <div className="h-12 rounded-lg w-1 bg-red-700"></div>
         <div className="flex bg-yellow-400 px-4 py-2 rounded-lg space-x-2">
           <img src={zap} />{' '}
-          <h1 className=" after:content-['*'] after:content- font-bold text-marrom ">
+          <h1 className=" after:content-[''] after:content- font-bold text-marrom ">
             Contato
           </h1>
         </div>
