@@ -2,7 +2,7 @@ import React from 'react';
 
 function Ofertas() {
   return (
-    <section className="w-full max-w-[60.625rem] flex items-center justify-center xl:max-w-[76.625rem]">
+    <section className="w-full max-w-[60.625rem] flex items-center justify-center xl:max-w-[76.625rem] mb-36">
       <div className="grid grid-cols-1  mt-[300px]  w-11/12 justify-center text-left gap-y-4 md:mt-32 lg:w-full md:grid-cols-6 md:gap-x-[30px] lg:gap-y-[30px] ">
         <h1 className="text-[#1D0605E5] text-2xl font-normal font-LilitaOne -mb-4 md:col-span-4">
           OFERTAS ESPECIAIS
