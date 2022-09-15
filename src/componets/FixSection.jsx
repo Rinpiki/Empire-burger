@@ -2,7 +2,7 @@ import React from 'react';
 
 function FixSection() {
   return (
-    <section className="lg:justify-center items-center h-120 bg-bmobile sm:justify-start mtd:flex mtd:h-100 mtd:bg-bannerpc bg-cover bg-center bg-no-repeat w-full">
+    <section className="lg:justify-center -z-20 items-center h-120 bg-bmobile sm:justify-start mtd:flex mtd:h-100 mtd:bg-bannerpc bg-cover bg-center bg-no-repeat w-full">
       <div className=" w-full max-w-7xl ">
         <div className="mt-20 ml-5 sm:-mt-2 lg:ml-10 lg:relative lg:right-[1%]">
           <p className="text-marrom  text-lg font-bold sm:mb-1 lg:mb-4">

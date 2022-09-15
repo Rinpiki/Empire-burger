@@ -6,7 +6,7 @@ import moto from '../../img/section2/iconmoto.png';
 
 function Descricao() {
   return (
-    <section className="w-full max-w-[60.625rem] flex items-center justify-center absolute top-[38rem] sm:top-[31rem] ">
+    <section className="w-full max-w-[60.625rem] -z-10 flex items-center justify-center absolute top-[38rem] sm:top-[31rem] ">
       <div className="flex flex-col sm:flex-row w-[95%] p-5 space-y-4 bg-white rounded-lg sm:space-y-0 sm:p-2 ">
         <Conteudo
           icon={burgue}
