@@ -14,8 +14,8 @@ function Ofertas() {
         <div className="bg-bb rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-auto md:col-span-4 row-span-6 ">
           maoooo
         </div>
-        <div className="bg-[url('assets/ofertas/batata.png')]  rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-32 lg:h-52 md:row-span-1 md:col-span-2"></div>
-        <div className="bg-[url('assets/ofertas/sorvete.png')] rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-32 lg:h-52 md:col-span-2 md:row-span-5"></div>
+        <div className="bg-batata  rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-32 lg:h-52 md:row-span-1 md:col-span-2"></div>
+        <div className="bg-sorvete rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-32 lg:h-52 md:col-span-2 md:row-span-5"></div>
       </div>
     </section>
   );
