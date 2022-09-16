@@ -25,8 +25,8 @@ module.exports = {
         bmobile: "url('/assets/bmobile.png')",
         bannerpc: "url('/assets/bannerpc.png')",
         bb: "url('/assets/burgue.png')",
-        batata: "url('assets/ofertas/batata.png')",
-        sorvete: "url('assets/ofertas/sorvete.png')",
+        batata: "url('/assets/batata.png')",
+        sorvete: "url('/assets/sorvete.png')",
       },
       colors: {
         marrom: '#1D0605E5',
