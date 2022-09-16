@@ -25,7 +25,7 @@ module.exports = {
         bmobile: "url('/assets/bmobile.png')",
         bannerpc: "url('/assets/bannerpc.png')",
         bb: "url('/assets/burgue.png')",
-        bata: "url('assets/ofertas/batata.png')",
+        batata: "url('assets/ofertas/batata.png')",
         sorvete: "url('assets/ofertas/sorvete.png')",
       },
       colors: {
