@@ -11,7 +11,7 @@ function Ofertas() {
           Aproveite todas as nossas ofertas, fiquei de olho porque sempre
           estamos mudando o nosso cardapio.
         </p>
-        <div className="bg-[url('assets/ofertas/burgue.png')] rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-auto md:col-span-4 row-span-6 ">
+        <div className="bg-bb rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-auto md:col-span-4 row-span-6 ">
           maoooo
         </div>
         <div className="bg-[url('assets/ofertas/batata.png')]  rounded-lg bg-cover bg-center bg-no-repeat w-full h-52 md:h-32 lg:h-52 md:row-span-1 md:col-span-2"></div>

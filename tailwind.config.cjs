@@ -24,6 +24,7 @@ module.exports = {
       backgroundImage: {
         bmobile: "url('/assets/bmobile.png')",
         bannerpc: "url('/assets/bannerpc.png')",
+        bb: "url('assets/ofertas/burgue.png')",
       },
       colors: {
         marrom: '#1D0605E5',
