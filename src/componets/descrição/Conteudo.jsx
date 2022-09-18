@@ -7,7 +7,7 @@ function Conteudo({ icon, text, p, alt, id }) {
         <img src={icon} alt={alt} className="min-w-8 " />
       </div>
 
-      <div className="flex ml-4  flex-col justify-self-center w-7/12">
+      <div className="flex ml-4  flex-col justify-self-center w-8/12">
         <h1 className="text-[#60340B] uppercase font-bold text-xl font-LilitaOne">
           {text}
         </h1>
