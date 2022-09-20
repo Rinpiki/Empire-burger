@@ -5,6 +5,7 @@ import FixSection from './componets/FixSection';
 import ContainerHeader from './componets/ContainerHeader';
 import Descricao from './componets/descrição/Descricao';
 import Ofertas from './componets/Ofertas';
+import Horario from './componets/descrição/Horario';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <FixSection />
       <Descricao />
       <Ofertas />
+      <Horario />
     </>
   );
 }
