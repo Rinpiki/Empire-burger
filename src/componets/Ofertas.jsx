@@ -7,7 +7,7 @@ function Ofertas() {
         <h1 className="text-[#1D0605E5] text-2xl font-normal font-LilitaOne -mb-2 md:col-span-4 md:-mb-6 md:text-[32px] ">
           OFERTAS ESPECIAIS
         </h1>
-        <p className="text-base text-[#1D0605B0] font-lato  md:col-span-4 md:-mb-4 ]">
+        <p className="text-base text-[#1D0605B0] font-lato  md:col-span-4 md:mt-3 lg:-mb-8 lg:-mt-2">
           Aproveite todas as nossas ofertas, fiquei de olho porque sempre
           estamos mudando o nosso cardapio.
         </p>
