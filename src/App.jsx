@@ -6,6 +6,7 @@ import ContainerHeader from './componets/ContainerHeader';
 import Descricao from './componets/descrição/Descricao';
 import Ofertas from './componets/Ofertas';
 import Horario from './componets/descrição/Horario';
+import Local from './componets/local/Local';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Descricao />
       <Ofertas />
       <Horario />
+      <Local />
     </>
   );
 }

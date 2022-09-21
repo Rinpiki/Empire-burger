@@ -3,7 +3,7 @@ import relogio from '../../img/section2/relogio.png';
 
 function Horario() {
   return (
-    <section className="w-full max-w-[60.625rem] flex items-center justify-center mb-10 flex-col lg:flex-row  lg:max-w-[76.625rem] xl:justify-start">
+    <section className="w-full max-w-[60.625rem] flex items-center justify-center mb-[63px] flex-col lg:flex-row  lg:max-w-[76.625rem] xl:justify-start md:mb-[100px]">
       <div className="flex w-11/12 max-w-[570px] items-center  bg-[#F43127] p-4 rounded-lg ">
         <div className="bg-[#1D060533] w-16 h-16 flex justify-center items-center rounded-full md:w-[95px] md:h-[95px]">
           <img src={relogio} alt="relogio" className="min-w-8 md:w-[50px]" />
