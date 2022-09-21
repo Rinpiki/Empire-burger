@@ -8,6 +8,7 @@ import Ofertas from './componets/Ofertas';
 import Horario from './componets/descrição/Horario';
 import Local from './componets/local/Local';
 import LocalMaps from './componets/local/LocalMaps';
+import Footer from './componets/Footer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Horario />
       <Local />
       <LocalMaps />
+      <Footer />
     </>
   );
 }

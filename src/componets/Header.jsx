@@ -40,7 +40,7 @@ function Header() {
         <img src={insta} />
         <div className="h-12 rounded-lg w-1 bg-red-700"></div>
         <div className="flex bg-yellow-400 px-4 py-2 rounded-lg space-x-2">
-          <img src={zap} />{' '}
+          <img src={zap} />
           <h1 className=" after:content-[''] after:content- font-bold text-marrom ">
             Contato
           </h1>
