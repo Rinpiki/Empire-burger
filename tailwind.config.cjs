@@ -18,6 +18,7 @@ module.exports = {
         150: '53.438rem',
       },
       screens: {
+        p5: '330px',
         mt: '870px',
         mtd: '490px',
       },
