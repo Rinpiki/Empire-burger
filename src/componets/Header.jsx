@@ -23,7 +23,7 @@ function Header() {
           </a>
         </li>
         <li>
-          <a href="#">Promoção</a>
+          <a href="#promo">Promoção</a>
         </li>
         <li>
           <a href="#">Cardapio</a>
