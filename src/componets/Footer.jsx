@@ -1,7 +1,7 @@
 import React from 'react';
-import coreared from '../img/iconsAmaralo/coroaRed.png';
-import ifoodred from '../img/iconsAmaralo/ifoodred.png';
-import instared from '../img/iconsAmaralo/instared.png';
+import coreared from '../img/iconsAmarelo/coroaRed.png';
+import ifoodred from '../img/iconsAmarelo/ifoodRed.png';
+import instared from '../img/iconsAmarelo/instaRed.png';
 
 function Footer() {
   return (
