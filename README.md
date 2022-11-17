@@ -1,7 +1,7 @@
 # Empire-burger
 ![Screenshot_13](https://user-images.githubusercontent.com/74790193/195394165-a94a166a-2c71-490a-8418-bdf5ff4b7ad6.png)
 # 📖 Sobre o projeto
-Este projecto é um website para um restaurante de hambúrgueres feito com React e Tailwind. Foi criado para praticar usando React e Tailwind juntos. O sítio web é simples, com apenas uma página.
+Este projecto é um website para um restaurante de hambúrgueres feito com React e Tailwind. Foi criado para praticar usando React e Tailwind juntos. O site web é simples, com apenas uma página.
 - Seção de promoções
 - Horário de funcionamento
 - Localização
